@@ -12,6 +12,6 @@ You can start [here](https://flutter.dev) to know more about Flutter if you have
 
 The requirements below are all v1 requirements
 
-[ ] Secure expense information (not an open application)  
-[ ] Good state management setup with [Provider](https://pub.dev/packages/provider)  
-[ ] Track basic income/expenses
+- [ ] Secure expense information (not an open application)
+- [ ] Good state management setup with [Provider](https://pub.dev/packages/provider)
+- [ ] Track basic income/expenses
